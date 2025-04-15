@@ -1,9 +1,8 @@
 # Instagram-Hacker
 This is a script for Instagram bruteforce attacks. WARNING THIS IS A REAL TOOL!
 
-```markdown
-<h1 align="center" style="color:#E1306C;"><b>🌐 Instagram-Hacker 🔐</b></h1>
-<p align="center"><i>A Bruteforce Attack Script for Educational & Ethical Hacking Purposes Only</i></p>
+#🌐 Instagram-Hacker 🔐
+A Bruteforce Attack Script for Educational & Ethical Hacking Purposes Only
 
 ---
 
@@ -72,7 +71,7 @@ You can improve the look of this README using GitHub Flavored Markdown:
 
 ---
 
-### 📌 Notes
+# 📌 Notes
 
 - ✅ **Tor must be running in the background** for anonymized attacks.
 - 🔒 Make sure to use VPN and test within legal scope.
@@ -80,7 +79,7 @@ You can improve the look of this README using GitHub Flavored Markdown:
 
 ---
 
-### 💬 Contact
+# 💬 Contact
 
 For issues or contributions, feel free to open a pull request or raise an issue.
 
@@ -88,7 +87,7 @@ For issues or contributions, feel free to open a pull request or raise an issue.
 
 ---
 
-### 🧠 Reminder
+# 🧠 Reminder
 
 > **Educational use only — Stay ethical, stay safe!**
 
