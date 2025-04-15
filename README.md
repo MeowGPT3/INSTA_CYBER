@@ -1,7 +1,7 @@
 # Instagram-Hacker
 This is a script for Instagram bruteforce attacks. WARNING THIS IS A REAL TOOL!
-
-#🌐 Instagram-Hacker 🔐
+---
+### 🌐 Instagram-Hacker 🔐
 A Bruteforce Attack Script for Educational & Ethical Hacking Purposes Only
 
 ---
@@ -79,7 +79,7 @@ You can improve the look of this README using GitHub Flavored Markdown:
 
 ---
 
-# 💬 Contact
+### 💬 Contact
 
 For issues or contributions, feel free to open a pull request or raise an issue.
 
@@ -87,10 +87,8 @@ For issues or contributions, feel free to open a pull request or raise an issue.
 
 ---
 
-# 🧠 Reminder
+### 🧠 Reminder
 
 > **Educational use only — Stay ethical, stay safe!**
 
 ```
-
-Would you like a **designed HTML page version** of this README too, like something you could use in a GUI app or a website? Or maybe want to add a cool project banner? 😎
