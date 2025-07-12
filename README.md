@@ -1,4 +1,4 @@
-# Instagram-Hacker
+# Instagram-Hack
 This is a script for Instagram bruteforce attacks. WARNING THIS IS A REAL TOOL!
 ---
 ### 🌐 Instagram-Hacker 🔐
