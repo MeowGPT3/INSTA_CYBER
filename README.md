@@ -2,7 +2,7 @@
 This is a script for Instagram bruteforce attacks. WARNING THIS IS A REAL TOOL!
 ---
 ### 🌐 Instagram-Hacker 🔐
-A Bruteforce Attack Script for Educational & Ethical Hacking Purposes Only
+A Bruteforce Attack Script for Ethical Hacking Purposes Only
 
 ---
 
@@ -16,7 +16,7 @@ A Bruteforce Attack Script for Educational & Ethical Hacking Purposes Only
 
 ### 👨‍💻 Author
 
-**👤 Name:** Muhammad Sabir Ali  
+**👤 Name:** Hardik  
 **🧠 Handle:** `INNO_CYBER`  
 **📁 Project:** Instagram BruteForce Attack Tool  
 
