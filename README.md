@@ -8,7 +8,7 @@ A Bruteforce Attack Script for Ethical Hacking Purposes Only
 
 ### ⚠️ DISCLAIMER
 
-> 🚨 **This tool is for educational and ethical testing purposes ONLY.**  
+> 🚨 **This tool is for ethical testing purposes ONLY.**  
 > The misuse of this script can lead to serious legal consequences.  
 > **We do not promote or encourage illegal activity. Use responsibly.**
 
@@ -27,7 +27,7 @@ A Bruteforce Attack Script for Ethical Hacking Purposes Only
 - Fast brute-force engine
 - Tor anonymity support
 - Simple command-line interface
-- Works on Linux distributions
+- Works on Linux (Only) distributions
 
 ---
 
