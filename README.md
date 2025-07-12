@@ -1,7 +1,7 @@
 # Instagram-Hack
 This is a script for Instagram bruteforce attacks. WARNING THIS IS A REAL TOOL!
 ---
-### 🌐 Instagram-Hacker 🔐
+### 🌐 Instagram-Hack 🔐
 A Bruteforce Attack Script for Ethical Hacking Purposes Only
 
 ---
